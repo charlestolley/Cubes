@@ -1,0 +1,1 @@
+The eventual intent is to be able to animate a multidimensional cube so that it can be rotated through its several degrees of freedom and displayed in 2 dimensions. This is simple to visualize for a 3 dimensional cube, but beyond that requires a great deal more imaginitive depth. It would be cooler just to calculate and draw it than to try to imagine it.
